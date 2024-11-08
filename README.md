@@ -23,7 +23,9 @@ Para iniciar una simulación de carrera:
 1. Ejecute la clase `Main`.
 2. Siga las instrucciones en consola para configurar la carrera y los vehículos participantes.
 
-## Estructura del Proyecto
+## Estructura del Proyecto - DIAGRAMA
+
+![Diagrama relacion clases](kata_Race.png)
 
 ## Estructura del Proyecto
 
